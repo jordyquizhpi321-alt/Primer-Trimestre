@@ -12,4 +12,5 @@ def do_connect(SSID, PASSWORD):
             pass
         print('Configuracion de red (IP/netmask/gw/DNS):', sta_if.ifconfig())
 
-do_connect('HOLGER-GAONA', 'maxyfer2011')
+do_connect('Nombre wifi', 'contraseña')
+
